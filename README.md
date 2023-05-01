@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DragonJ21
-- 👀 I’m interested in CyberSecurity, Networking, and iOS App development
-- 🌱 I’m currently working on a few iOS, iPadOS, and watchOS applications
+- 👀 I’m interested in CyberSecurity, Networking, and Web Development
 
 
 <!---
