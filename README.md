@@ -1,12 +1,12 @@
-# 👨🏻‍💻 About Me 👨🏻‍💻
+# 👨🏻‍💻 About Me
 
-👋 Hi, I'm **Parthiv Vinubhai Kukadia**, a passionate IT professional with a strong foundation in cybersecurity, information systems, and data-driven development.  
-🎓 Currently pursuing a Master's in Information Systems Security in Sydney, Australia.  
-🔐 Focused on designing secure systems, managing cyber risk, and developing resilient IT infrastructures.  
-🧠 Quick learner with a sharp analytical mindset, thriving in dynamic environments that demand adaptability, collaboration, and innovation.  
-🛠️ Skilled in full-stack development, data visualization, and cloud solutions.  
-🌐 Founder of an IT services company, delivering cutting-edge web, app, and game solutions.  
-🇦🇺 Based in Australia, exploring growth in cybersecurity, cloud security, and ethical hacking.  
+👋 Hi, I'm **Vivaswaan Sanghani**, a passionate IT professional with a strong foundation in software development, system analysis, and cloud-driven solutions.  
+🎓 I hold a Bachelor's degree in Science from the University of Technology Sydney Australia.  
+💻 I specialize in building efficient web apps, automation tools, and scalable systems using modern technologies.  
+🧠 A quick learner with an analytical mindset, I thrive in environments that value adaptability, innovation, and collaboration.  
+🌐 I'm the founder of an IT services company, delivering cutting-edge web, mobile, and game development solutions.  
+🔐 With a growing interest in cybersecurity, I incorporate secure design principles in my development projects.  
+🇦🇺 Based in Australia, I'm always open to exciting opportunities in tech, whether it's software development, systems analysis, or cloud solutions.
 
 📄 You can check out my [CV here](#).  
 
@@ -23,13 +23,16 @@
 ### 🗄 Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud & DevOps
 ![AWS](https://skillicons.dev/icons?i=aws) ![Firebase](https://skillicons.dev/icons?i=firebase) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)  
 ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Docker](https://skillicons.dev/icons?i=docker)
 
 ### 🔐 Cybersecurity Tools
 ![Wireshark](https://skillicons.dev/icons?i=wireshark) ![Kali](https://skillicons.dev/icons?i=kali)  
-Experience with vulnerability assessments, penetration testing, and security auditing.
+
+### 🧩 Tools & Platforms
+![Figma](https://skillicons.dev/icons?i=figma)  
+![Jira](https://skillicons.dev/icons?i=jira)
 
 ---
 
