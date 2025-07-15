@@ -25,14 +25,13 @@
 
 ### ☁️ Cloud & DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,github,vscode,bitbucket,postman,firebase&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,github,vscode,bitbucket,kubernetes,firebase&perline=3)](https://skillicons.dev)
 
 ### 🔐 Cybersecurity Tools
 ![Wireshark](https://skillicons.dev/icons?i=wireshark) ![Kali](https://skillicons.dev/icons?i=kali)  
 
 ### 🧩 Tools & Platforms
-![Figma](https://skillicons.dev/icons?i=figma)  
-![Jira](https://skillicons.dev/icons?i=jira)
+[![Tools](https://skillicons.dev/icons?i=figma,postman&perline=3)](https://skillicons.dev)
 
 ---
 
