@@ -26,6 +26,7 @@
 ### ☁️ Cloud & DevOps
 ![AWS](https://skillicons.dev/icons?i=aws) ![Firebase](https://skillicons.dev/icons?i=firebase) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)  
 ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Docker](https://skillicons.dev/icons?i=docker)
+![Azure](https://skillicons.dev/icons?i=azure) ![Bitbucket](https://skillicons.dev/icons?i=bitbucket) ![Postman](https://skillicons.dev/icons?i=postman)
 
 ### 🔐 Cybersecurity Tools
 ![Wireshark](https://skillicons.dev/icons?i=wireshark) ![Kali](https://skillicons.dev/icons?i=kali)  
