@@ -15,20 +15,19 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,nextjs,python,html,css&perline=3)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,java,python,html,css&perline=3)](https://skillicons.dev)
 
 ### 🖥 Frameworks & Libraries
-![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=next) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,&perline=3)](https://skillicons.dev)
 
 ### 🗄 Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql)
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=3)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,github,vscode,bitbucket,kubernetes,firebase&perline=3)](https://skillicons.dev)
+[![Cloud stack](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,github,vscode,bitbucket,kubernetes,firebase&perline=3)](https://skillicons.dev)
 
 ### 🔐 Cybersecurity Tools
-![Wireshark](https://skillicons.dev/icons?i=wireshark) ![Kali](https://skillicons.dev/icons?i=kali)  
+![Kali](https://skillicons.dev/icons?i=kali)  
 
 ### 🧩 Tools & Platforms
 [![Tools](https://skillicons.dev/icons?i=figma,postman&perline=3)](https://skillicons.dev)
