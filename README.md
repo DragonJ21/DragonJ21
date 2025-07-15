@@ -15,7 +15,7 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Python](https://skillicons.dev/icons?i=python) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+[![Languages](https://skillicons.dev/icons?i=js,ts,nextjs,python,html,css&perline=3)](https://skillicons.dev)
 
 ### 🖥 Frameworks & Libraries
 ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=next) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)
@@ -25,7 +25,7 @@
 
 ### ☁️ Cloud & DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,github,vscode,bitbucket,bitbucket,postman,firebase&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,github,vscode,bitbucket,postman,firebase&perline=3)](https://skillicons.dev)
 
 ### 🔐 Cybersecurity Tools
 ![Wireshark](https://skillicons.dev/icons?i=wireshark) ![Kali](https://skillicons.dev/icons?i=kali)  
