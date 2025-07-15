@@ -2,9 +2,9 @@
 
 👋 Hi, I'm **Vivaswaan Sanghani**, a passionate IT professional with a strong foundation in software development, system analysis, and cloud-driven solutions.  
 🎓 I hold a Bachelor's degree in Science from the University of Technology Sydney Australia.  
-💻 I specialize in building efficient web apps, automation tools, and scalable systems using modern technologies.  
+💻 I specialise in building efficient web apps, automation tools, and scalable systems using modern technologies.  
 🧠 A quick learner with an analytical mindset, I thrive in environments that value adaptability, innovation, and collaboration.  
-🌐 I'm the founder of an IT services company, delivering cutting-edge web, mobile, and game development solutions.  
+🌐 I have been delivering cutting-edge web, mobile, and game development solutions for 5+ years.  
 🔐 With a growing interest in cybersecurity, I incorporate secure design principles in my development projects.  
 🇦🇺 Based in Australia, I'm always open to exciting opportunities in tech, whether it's software development, systems analysis, or cloud solutions.
 
