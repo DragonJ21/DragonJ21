@@ -24,6 +24,10 @@
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### ☁️ Cloud & DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+
 ![AWS](https://skillicons.dev/icons?i=aws) ![Firebase](https://skillicons.dev/icons?i=firebase) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)  
 ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Docker](https://skillicons.dev/icons?i=docker)
 ![Azure](https://skillicons.dev/icons?i=azure) ![Bitbucket](https://skillicons.dev/icons?i=bitbucket) ![Postman](https://skillicons.dev/icons?i=postman)
