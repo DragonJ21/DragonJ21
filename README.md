@@ -8,7 +8,7 @@
 🔐 With a growing interest in cybersecurity, I incorporate secure design principles in my development projects.  
 🇦🇺 Based in Australia, I'm always open to exciting opportunities in tech, whether it's software development, systems analysis, or cloud solutions.
 
-📄 You can check out my [CV here](#).  
+📄 You can check out my [CV here](Vivaswaan_Sanghani.pdf).  
 
 ---
 
@@ -45,7 +45,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivaswaan491)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/DragonJ21)  
-📧 Email: your.email@example.com
+📧 Email: [sanghaniviv@gmail.com](mailto:sanghaniviv@gmail.com)
 🌐 Website: [https://vportfolio-amber.vercel.app](https://vportfolio-amber.vercel.app)
 
 ---
