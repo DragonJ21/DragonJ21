@@ -8,7 +8,7 @@
 🔐 With a growing interest in cybersecurity, I incorporate secure design principles in my development projects.  
 🇦🇺 Based in Australia, I'm always open to exciting opportunities in tech, whether it's software development, systems analysis, or cloud solutions.
 
-📄 You can check out my [CV here](Vivaswaan_Sanghani.pdf).  
+📄 You can check out my [CV here](Vivaswaan_Sanghani_thorai.pdf).  
 
 ---
 
